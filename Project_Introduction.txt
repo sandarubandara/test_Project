@@ -2,3 +2,8 @@ We all know that nowadays we live in an environment surrounded by technology. We
 The book “MIS”, by Bidgoli¹, give many examples of how Information Technology can support information systems, such as computer networks, database systems and Point-of-Sale systems. Inspired by that, we wanted to introduce PIX, which is an instant payment platform used for Brazilian residents, companies, and governmental entities to send and receive payment transfers.
 PIX has innovated the financial market in Brazil by facilitating money transfers between people, and between people and companies. With this new application, it is possible to make bank transfers in less than 10 seconds by entering only a single data from the person who will receive the money, such as the telephone number or the e-mail.
 Using Pix, transactions can be done via cell phone, without the need for any other devices. People in Brazil don’t even carry cash or cards anymore. They simply go shopping just with their mobile devices.
+
+The group met to discuss the topics presented so far in the Systems Analysis & Design course. The common interest among all the members of the group was emerging Information Technologies, including PIX.
+The research was conducted mostly on the Internet because it is a current topic and a Brazilian technology. For this reason, there weren’t books that we could deepen our knowledge in this topic. Another difficulty was that most sites are in Portuguese. We also used the book “MIS”, by Bidgoli as a reference to understand and associate key terms with the topic presented.
+Finally, for the video we used the free version of an online tool called InVideo. We found no difficulties at this step, as the site provides a tutorial for beginners and many templates to be used.
+

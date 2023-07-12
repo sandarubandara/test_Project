@@ -7,3 +7,6 @@ The group met to discuss the topics presented so far in the Systems Analysis & D
 The research was conducted mostly on the Internet because it is a current topic and a Brazilian technology. For this reason, there weren’t books that we could deepen our knowledge in this topic. Another difficulty was that most sites are in Portuguese. We also used the book “MIS”, by Bidgoli as a reference to understand and associate key terms with the topic presented.
 Finally, for the video we used the free version of an online tool called InVideo. We found no difficulties at this step, as the site provides a tutorial for beginners and many templates to be used.
 
+
+Name : Sandaru
+Student number : 123456
